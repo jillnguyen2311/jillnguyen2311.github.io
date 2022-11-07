@@ -1,0 +1,16 @@
+{
+    "person": {
+        "firstName":"Jill",
+        "lastName":"Nguyen"
+    },
+
+    "study": {
+        "program": "digital design and development diploma",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+    },
+
+    "hobby": {
+        "indoor": ["sleep", "games", "music"],
+        "outdoor": "walking"
+    }
+}
